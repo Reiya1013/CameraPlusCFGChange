@@ -76,9 +76,9 @@ namespace CameraPlusCFGChange
             try
             {
                 Logger.log?.Debug($"{ System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location) + @"..\..\"}");
-                string directryPass = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location) + @"..\..\";
+                string directryName = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location) + @"..\..\";
 
-                System.IO.File.Copy(directryPass + @"\UserData\CameraPlus\" + Settings.instance.OutputCamera_value, directryPass + @"\UserData\CameraPlus\" + retrunName, true);
+                System.IO.File.Copy(directryName + @"\UserData\CameraPlus\" + Settings.instance.OutputCamera_value, directryName + @"\UserData\CameraPlus\" + retrunName, true);
             }
             catch (Exception e)
             {
@@ -92,46 +92,14 @@ namespace CameraPlusCFGChange
             try
             {
                 Logger.log?.Debug($"{ System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location) + @"..\..\"}");
-                string directryPass = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location) + @"..\..\";
+                string directryName = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location) + @"..\..\";
 
-                System.IO.File.Copy(directryPass + @"\UserData\CameraPlus\" + changedName, directryPass + @"\UserData\CameraPlus\" + Settings.instance.OutputCamera_value, true);
+                System.IO.File.Copy(directryName + @"\UserData\CameraPlus\" + changedName, directryName + @"\UserData\CameraPlus\" + Settings.instance.OutputCamera_value, true);
             }
             catch (Exception e)
             {
                 Logger.log?.Debug($"{e.Message}");
             }
-        }
-
-        /// <summary>
-        /// Called every frame if the script is enabled.
-        /// </summary>
-        private void Update()
-        {
-
-        }
-
-        /// <summary>
-        /// Called every frame after every other enabled script's Update().
-        /// </summary>
-        private void LateUpdate()
-        {
-
-        }
-
-        /// <summary>
-        /// Called when the script becomes enabled and active
-        /// </summary>
-        private void OnEnable()
-        {
-
-        }
-
-        /// <summary>
-        /// Called when the script becomes disabled or when it is being destroyed.
-        /// </summary>
-        private void OnDisable()
-        {
-
         }
 
         /// <summary>
