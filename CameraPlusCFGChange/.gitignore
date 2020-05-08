@@ -1,2 +1,5 @@
 ## Ignore References folder
 References/
+bin/
+obj/
+CameraPlusCFGChange.csproj.user
