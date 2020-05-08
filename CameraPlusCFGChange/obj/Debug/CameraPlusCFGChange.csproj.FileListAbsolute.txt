@@ -1,0 +1,7 @@
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\bin\Debug\CameraPlusCFGChange.dll
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\bin\Debug\BSML.dll
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\bin\Debug\BS_Utils.dll
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\obj\Debug\CameraPlusCFGChange.csproj.CoreCompileInputs.cache
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\obj\Debug\CameraPlusCFGChange.csproj.CopyComplete
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\obj\Debug\CameraPlusCFGChange.dll
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\obj\Debug\CameraPlusCFGChange.csprojAssemblyReference.cache

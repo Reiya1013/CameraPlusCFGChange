@@ -1,0 +1,14 @@
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\bin\Release\CameraPlusCFGChange.dll
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\bin\Release\BSML.dll
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\bin\Release\BS_Utils.dll
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\obj\Release\CameraPlusCFGChange.csprojAssemblyReference.cache
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\obj\Release\CameraPlusCFGChange.csproj.CoreCompileInputs.cache
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\obj\Release\CameraPlusCFGChange.csproj.CopyComplete
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\obj\Release\CameraPlusCFGChange.dll
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\CameraPlusCFGChange\bin\Release\CameraPlusCFGChange.dll
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\CameraPlusCFGChange\bin\Release\BSML.dll
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\CameraPlusCFGChange\bin\Release\BS_Utils.dll
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\CameraPlusCFGChange\obj\Release\CameraPlusCFGChange.csprojAssemblyReference.cache
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\CameraPlusCFGChange\obj\Release\CameraPlusCFGChange.csproj.CoreCompileInputs.cache
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\CameraPlusCFGChange\obj\Release\CameraPlusCFGChange.csproj.CopyComplete
+C:\Users\reiya\OneDrive\ドキュメント\BeatSaber MOD\BSIPA4\CameraPlusCFGChange\CameraPlusCFGChange\obj\Release\CameraPlusCFGChange.dll
