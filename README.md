@@ -1,11 +1,7 @@
 # CameraPlusCFGChange   
-    
-    
-注意！！！　本機能はCameraPlus4.2.0以降から踏襲されたため、このMODはなくても同じことができるようになりました。  
 
-    
-    
-    
+**注意！！！　本機能はCameraPlus4.2.0以降から踏襲されたため、このMODはなくても同じことができるようになりました。**  
+
 CameraPlusCFGChangeは[CameraPlus](https://github.com/Snow1226/CameraPlus)を導入前提としたMODです。    
 ゲームシーンとメニューシーンでカメラのコンフィグファイルを切り替えて、それぞれ見せたいカメラを選択できるようするMODです。    
     
